@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar dataset desde Excel
-df = pd.read_excel('../data/ventas_videojuegos.xlsx')
+df = pd.read_excel('C:\Users\Nicolas Pozo\analisis-videojuegos\python')
 
 # Ver primeras filas
 print("Primeras filas:")
