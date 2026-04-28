@@ -48,19 +48,19 @@ El análisis se enfoca en responder:
 Los siguientes resultados corresponden a las consultas SQL ejecutadas sobre el dataset:
 
 ### Ventas por género
-![Ventas por género](imagenes/01_resultado.png)
+![Ventas por género](imagenes/01_resultado.PNG)
 
 ### Top juegos por década
-![Top juegos por década](imagenes/02_resultado.png)
+![Top juegos por década](imagenes/02_resultado.PNG)
 
 ### Tendencias del mercado
-![Tendencias](imagenes/03_resultado.png)
+![Tendencias](imagenes/03_resultado.PNG)
 
 ### Análisis por plataforma
-![Plataformas](imagenes/04_resultado.png)
+![Plataformas](imagenes/04_resultado.PNG)
 
 ### Análisis por región
-![Regiones](imagenes/05_resultado.png)
+![Regiones](imagenes/05_resultado.PNG)
 
 ---
 
