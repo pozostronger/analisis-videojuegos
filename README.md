@@ -3,7 +3,7 @@
 ## Descripción del proyecto
 Este proyecto analiza un dataset de ventas de videojuegos con el objetivo de identificar patrones de mercado, tendencias a lo largo del tiempo y diferencias entre regiones.
 
-Se busca responder preguntas como:
+El análisis se enfoca en responder:
 - Qué géneros concentran mayor volumen de ventas
 - Cómo ha evolucionado el mercado en el tiempo
 - Qué plataformas presentan mejor desempeño
@@ -12,7 +12,7 @@ Se busca responder preguntas como:
 ---
 
 ## Herramientas utilizadas
-- SQL (SQLite)
+- SQL (SQLite / DBeaver)
 - Python (pandas para limpieza de datos)
 - Git y GitHub
 
@@ -45,6 +45,8 @@ Se busca responder preguntas como:
 
 ## Resultados
 
+Los siguientes resultados corresponden a las consultas SQL ejecutadas sobre el dataset:
+
 ### Ventas por género
 ![Ventas por género](imagenes/01_resultado.png)
 
@@ -73,9 +75,14 @@ Se busca responder preguntas como:
 
 ---
 
+## Fuente de datos
+Dataset de ventas de videojuegos utilizado con fines educativos y de análisis.
+
+---
+
 ## Conclusión
 
-El análisis muestra que el mercado de videojuegos presenta una alta diversidad, donde ningún género domina de forma absoluta, aunque Action lidera en participación global. 
+El análisis muestra que el mercado de videojuegos presenta una alta diversidad, donde ningún género domina de forma absoluta, aunque Action lidera en participación global.
 
 Se observa que el rendimiento de los géneros no depende únicamente del volumen total de ventas, sino también de la existencia de títulos icónicos que concentran gran parte del éxito comercial.
 
@@ -84,6 +91,3 @@ A nivel de plataformas, se identifica una diferencia clara entre volumen y efici
 Finalmente, el análisis evidencia la importancia de contextualizar los datos, ya que plataformas antiguas presentan promedios elevados debido a un menor número de juegos, lo que puede distorsionar comparaciones directas.
 
 En conjunto, estos resultados reflejan un mercado dinámico, influenciado tanto por tendencias de consumo como por el ciclo de vida de las plataformas.
-
-## Fuente de datos
-Dataset de ventas de videojuegos utilizado con fines educativos y de análisis.
